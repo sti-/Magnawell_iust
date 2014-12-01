@@ -1,0 +1,23 @@
+{
+  "name": "Magnawell_iust",
+  "version": "0.0.0",
+  "description": "Magnawell_iust\r ==============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sti-/Magnawell_iust.git"
+  },
+  "author": "Cristi Naftanaila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sti-/Magnawell_iust/issues"
+  },
+  "homepage": "https://github.com/sti-/Magnawell_iust",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
